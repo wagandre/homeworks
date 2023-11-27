@@ -1,5 +1,7 @@
 /* © Copyright iFD GmbH 2023 www.ifd-gmbh.com */
-package java_pro;
+package java_pro.workers;
+
+import java_pro.Profession;
 
 public class Main {
     public static void main(String[] args) {
